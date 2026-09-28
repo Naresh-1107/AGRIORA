@@ -1,0 +1,7 @@
+{
+  "name": "AGRIORA — Compassionate Agri-Tech & Fair Food Systems",
+  "description": "An intelligent agricultural ecosystem connecting seed to fair market through precision digital twins, crop copilot diagnostics, and transparent supply routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
